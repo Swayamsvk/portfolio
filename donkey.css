@@ -1,0 +1,56 @@
+
+img{ border:5px solid #000;
+
+ border-radius:50%;}
+h1{color:white;
+
+
+
+}
+h2{color:white;}
+	p{color:white;}
+	body{
+	margin:0;
+	padding:0;
+		
+	background-image:url(back.jpg);
+	}
+	ul{
+		display:flex;
+		position:absolute;
+		
+		left:48%;
+		transform:translate(-50%,-50%);
+	}
+	ul li
+	{
+		list-style:none;
+	}
+	ul li a
+	{
+		width:40px;
+		height:40px;
+		background:#fff;
+		text-align:center;
+		line-height:40px;
+		font-size:20px;
+		margin:0 5px;
+		display:block;
+		border-radius:50%;
+		position:relative;
+		overflow:hidden;
+		border:2px solid #fff;
+	}
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
